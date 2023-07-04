@@ -11,6 +11,8 @@ begin
 		url="https://github.com/AtelierArith/RandomLogos.jl", 
 		rev="f794a1b",
 	))
+	Pkg.add("ImageShow")
+	Pkg.add("ImageCore")
 end
 
 # ╔═╡ c340d0db-47f3-4d51-9c8d-47734988b6f6
