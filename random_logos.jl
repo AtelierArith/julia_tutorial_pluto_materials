@@ -13,10 +13,7 @@ begin
 	))
 	Pkg.add("ImageShow")
 	Pkg.add("ImageCore")
-end
-
-# ╔═╡ c340d0db-47f3-4d51-9c8d-47734988b6f6
-begin
+	
 	using Random
 	using ImageCore
 	using ImageShow
@@ -65,6 +62,5 @@ end
 # ╔═╡ Cell order:
 # ╟─f99fbad8-5165-4083-9aab-cde62eaf3ec3
 # ╠═8c13dea2-1a84-11ee-117d-d5937495696f
-# ╠═c340d0db-47f3-4d51-9c8d-47734988b6f6
 # ╠═fe1047ef-d512-4db7-bc49-bb5bc5e8bba9
 # ╠═a900e785-7780-496d-8426-d0e668e9531c
